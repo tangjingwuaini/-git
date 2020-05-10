@@ -77,7 +77,7 @@ export default {
         display: inline-block;
         margin-bottom: -12px;
         // margin-right: 18px;
-        border-radius: 50px;
+        // border-radius: 50px;
     }
 }
 </style>
