@@ -61,7 +61,7 @@ export default {
     padding: 0 32px;
     svg { 
         margin-bottom: -8px;
-        font-size: 25px;
+        // font-size: 25px;
         cursor: pointer;
     }
 
