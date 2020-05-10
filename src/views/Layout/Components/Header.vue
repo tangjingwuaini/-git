@@ -61,7 +61,7 @@ export default {
     padding: 0 32px;
     svg { 
         margin-bottom: -8px;
-        font-size: 25px;
+        // font-size: 25px;
         cursor: pointer;
     }
 
@@ -76,7 +76,7 @@ export default {
     img {
         display: inline-block;
         margin-bottom: -12px;
-        margin-right: 18px;
+        // margin-right: 18px;
         border-radius: 50px;
     }
 }
