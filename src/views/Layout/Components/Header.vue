@@ -75,7 +75,7 @@ export default {
     }
     img {
         display: inline-block;
-        margin-bottom: -12px;
+        // margin-bottom: -12px;
         // margin-right: 18px;
         // border-radius: 50px;
     }
